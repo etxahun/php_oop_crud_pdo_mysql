@@ -9,9 +9,9 @@
  */
 class DB{
 
-    private $dbHost     = "172.17.0.2";
-    private $dbUsername = "root";
-    private $dbPassword = "101281";
+    private $dbHost     = "xx.x.x.x";
+    private $dbUsername = "yyyyyy";
+    private $dbPassword = "zzzzz";
     private $dbName     = "phptutorial";
 
     public function __construct(){
